@@ -27,7 +27,7 @@ _______________
 ### AUDIT ( ON-SITE OR REMOTELY )
 _____________________________
 
-- HIGH IMPACT OF AUDIT; RESPECT TIME GIVEN/PROVIDED FOR AUDIT WITH THE ORGANISATION/PERSONS BEING INTERVIEWED.
+- HIGH IMPACT OF AUDIT; RESPECT TIME GIVEN/PROVIDED FOR AUDIT WITH THE UNIVERSITY/PERSONS BEING INTERVIEWED.
   I Interviewed the Diector of Information Services & the Chief Information Officer asking about Pysical Controls being used in their University.
 
 ![Audit Interview 1](https://github.com/user-attachments/assets/e4946fc7-2990-40e6-a33a-3ef3f2db2f3f)
