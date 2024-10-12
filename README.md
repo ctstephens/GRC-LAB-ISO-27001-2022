@@ -31,6 +31,7 @@ _____________________________
 
 - HIGH IMPACT OF AUDIT; RESPECT TIME GIVEN/PROVIDED FOR AUDIT WITH THE UNIVERSITY/PERSONS BEING INTERVIEWED.
   I Interviewed the Diector of Information Services & the Chief Information Officer asking about Pysical Controls being used in their University.
+
 [GRC LAB ISO 27001 Audit Interview.docx](https://github.com/user-attachments/files/17350634/GRC.LAB.ISO.27001.Audit.Interview.docx)
 
 ![Audit Interview 1](https://github.com/user-attachments/assets/e4946fc7-2990-40e6-a33a-3ef3f2db2f3f)
@@ -42,6 +43,7 @@ _________________________
 
 ### ANALYSIS
 Compliance Audit and Risk assesment carried out from the Interview and compiled into the ISO 27001:2022 Controls Excel Spreadsheet for Physical Controls.
+
 [ISO 27001 Audit.xlsx](https://github.com/user-attachments/files/17350636/ISO.27001.Audit.xlsx)
 
 ![Audit   Risk Assesment](https://github.com/user-attachments/assets/f8652bc4-0a2f-4502-9f9e-ac332d01b4ea)
