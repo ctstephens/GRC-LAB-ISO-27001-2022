@@ -32,7 +32,7 @@ _____________________________
 - HIGH IMPACT OF AUDIT; RESPECT TIME GIVEN/PROVIDED FOR AUDIT WITH THE UNIVERSITY/PERSONS BEING INTERVIEWED.
   I Interviewed the Diector of Information Services & the Chief Information Officer asking about Pysical Controls being used in their University.
 
-[GRC LAB ISO 27001 Audit Interview.docx](https://github.com/user-attachments/files/17350634/GRC.LAB.ISO.27001.Audit.Interview.docx)
+- [GRC LAB ISO 27001 Audit Interview.docx](https://github.com/user-attachments/files/17350634/GRC.LAB.ISO.27001.Audit.Interview.docx)
 
 ![Audit Interview 1](https://github.com/user-attachments/assets/e4946fc7-2990-40e6-a33a-3ef3f2db2f3f)
 ![Audit Interview 2](https://github.com/user-attachments/assets/b6ce8aa2-5d90-4eb5-8f8c-42c107f10ee9)
@@ -44,7 +44,7 @@ _________________________
 ### ANALYSIS
 Compliance Audit and Risk assesment carried out from the Interview and compiled into the ISO 27001:2022 Controls Excel Spreadsheet for Physical Controls.
 
-[ISO 27001 Audit.xlsx](https://github.com/user-attachments/files/17350636/ISO.27001.Audit.xlsx)
+- [ISO 27001 Audit.xlsx](https://github.com/user-attachments/files/17350636/ISO.27001.Audit.xlsx)
 
 ![Audit   Risk Assesment](https://github.com/user-attachments/assets/f8652bc4-0a2f-4502-9f9e-ac332d01b4ea)
 
@@ -60,7 +60,7 @@ _________
 5. RECOMMENDATIONS FOR REDEDIATIONS
 6. CONCLUSION
 
-[GRC LAB ISO 27001 Audit Report.docx](https://github.com/user-attachments/files/17350633/GRC.LAB.ISO.27001.Audit.Report.docx)
+- [GRC LAB ISO 27001 Audit Report.docx](https://github.com/user-attachments/files/17350633/GRC.LAB.ISO.27001.Audit.Report.docx)
 
 ![Audit Report 1](https://github.com/user-attachments/assets/1cc4623b-e12b-467b-876b-057fff1bc927)
 ![Audit Report 2](https://github.com/user-attachments/assets/61d9dab2-dc7e-4df5-a521-4cdb87e66b73)
