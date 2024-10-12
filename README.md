@@ -56,3 +56,5 @@ _________
 5. RECOMMENDATIONS FOR REDEDIATIONS
 6. CONCLUSION
 
+![Audit Report 1](https://github.com/user-attachments/assets/1cc4623b-e12b-467b-876b-057fff1bc927)
+![Audit Report 2](https://github.com/user-attachments/assets/61d9dab2-dc7e-4df5-a521-4cdb87e66b73)
