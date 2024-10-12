@@ -4,7 +4,7 @@
 __________
 
 - ISO 27001:2022 EXCEL SPREADSHEET OR WHICHEVER FRAMEWORK YOU NEED/USE.
-Usually you would have to Purchase this fro mthe Offical ISO website but can find Excel Spreadsheets available online doing a general search.
+Usually you would have to Purchase this from the Offical ISO website but can you find Excel Spreadsheets available online doing a general search.
 
 ![ISO 27001-2002 image](https://github.com/user-attachments/assets/56fe047f-458e-4bf3-a59c-0e65490af273)
 
