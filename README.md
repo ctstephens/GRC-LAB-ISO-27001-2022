@@ -21,7 +21,7 @@ Usually you would have to Purchase this fro mthe Offical ISO website but can fin
 _______________
 
 - WHO DO YOU NEED TO TALK TO? SCHEDULE MEETING? HOW LONG IS NEEDED FOR MEETING?
-  This can be done prior with say a liason of the Organisation to save time when you actually perform the Audit.
+  This can be done prior with say a liason of the University to save time when you actually perform the Audit.
 - REQUESTING SOP'S/POLICIES ETC. ( DOCUMENTATION )
 
 ### AUDIT ( ON-SITE OR REMOTELY )
@@ -38,7 +38,7 @@ _____________________________
 _________________________
 
 ### ANALYSIS
-Compliance Audit and Risk assesment carried out from the Interview and compiled into the NIST SP 800-53 Rev5 Contols Excel Spreadsheet for Least Priviledge Controls.
+Compliance Audit and Risk assesment carried out from the Interview and compiled into the ISO 27001:2022 Controls Excel Spreadsheet for Physical Controls.
 
 
 
